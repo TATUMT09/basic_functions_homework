@@ -1,3 +1,5 @@
-# Create a function called main.
+def main():
+   return int
+print() # Create a function called main.
 
-# Return the value integer type.
+print(main())# Return the value integer type.
